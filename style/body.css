@@ -3,6 +3,8 @@ body{
 }
 
 canvas{
+    width : 400;
+    height: 400;
     background-color:red;
     opacity : 0.3;
 }
